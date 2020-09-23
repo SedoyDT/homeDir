@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/amd-co/library/Composer/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/amd-co/library/Composer/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/amd-co/library/Composer/giggsey/libphonenumber-for-php" />
+      <excludeFolder url="file://$MODULE_DIR$/amd-co/library/Composer/giggsey/locale" />
+      <excludeFolder url="file://$MODULE_DIR$/amd-co/library/Composer/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/amd-co/library/Composer/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/amd-co/library/Composer/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/amd-co/library/Composer/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/amd-co/library/Composer/phpunit/php-token-stream" />
+      <excludeFolder url="file://$MODULE_DIR$/amd-co/library/Composer/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/amd-co/library/Composer/phpunit/phpunit-mock-objects" />
+      <excludeFolder url="file://$MODULE_DIR$/amd-co/library/Composer/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/amd-co/library/Composer/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/amd-co/library/Composer/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/amd-co/library/Composer/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/amd-co/library/Composer/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/amd-co/library/Composer/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/amd-co/library/Composer/symfony/config" />
+      <excludeFolder url="file://$MODULE_DIR$/amd-co/library/Composer/symfony/dependency-injection" />
+      <excludeFolder url="file://$MODULE_DIR$/amd-co/library/Composer/symfony/filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/amd-co/library/Composer/symfony/yaml" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

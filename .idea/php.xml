@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/amd-co/library/Composer/sebastian/diff" />
+      <path value="$PROJECT_DIR$/amd-co/library/Composer/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/amd-co/library/Composer/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/amd-co/library/Composer/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/amd-co/library/Composer/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/amd-co/library/Composer/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/amd-co/library/Composer/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/amd-co/library/Composer/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/amd-co/library/Composer/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/amd-co/library/Composer/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/amd-co/library/Composer/symfony/yaml" />
+      <path value="$PROJECT_DIR$/amd-co/library/Composer/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/amd-co/library/Composer/symfony/config" />
+      <path value="$PROJECT_DIR$/amd-co/library/Composer/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/amd-co/library/Composer/composer" />
+      <path value="$PROJECT_DIR$/amd-co/library/Composer/giggsey/libphonenumber-for-php" />
+      <path value="$PROJECT_DIR$/amd-co/library/Composer/sebastian/environment" />
+      <path value="$PROJECT_DIR$/amd-co/library/Composer/giggsey/locale" />
+      <path value="$PROJECT_DIR$/amd-co/library/Composer/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/amd-co/library/Composer/sebastian/version" />
+      <path value="$PROJECT_DIR$/amd-co/library/Composer/sebastian/exporter" />
+    </include_path>
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/amd-co/library/Composer/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>
